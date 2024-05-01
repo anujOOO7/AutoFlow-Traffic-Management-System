@@ -442,6 +442,22 @@ additional step for development and choosing the best road for the emergency and
 9) https://www.slideshare.net/UtkarshDe/four-way-traffic-light-conrol-using-verilog 
 
 
+## Technology Stack 🛠️
+- **Coding Languages**: Verilog HDL
+
+- **Tools & Technologies**: Xilinx Vivado
+
+- **Project Management Tools**: Trello, Git/Github, Markdown (Documentation)
+
+## Learning Resources 🧰
+
+-   [Introduction to Verilog HDL](https://www.tutorialspoint.com/vlsi_design/vlsi_design_verilog_introduction.htm)
+    
+-   [Introduction to FPGA Design with Vivado High-Level Synthesis](https://www.xilinx.com/support/documentation/sw_manuals/ug998-vivado-intro-fpga-design-hls.pdf)
+    
+-   [Introduction to Traffic Signal Controller using Verilog](https://vlsicoding.blogspot.com/2013/11/verilog-code-for-traffic-light-control.html)
+
+
 ## Author
 
 - [Anuj](https://github.com/anujOOO7), Bachelor of Technology in Electronics and Communication Engineering, National Institute of Technology, Patna
